@@ -1,1 +1,1 @@
-# GDPR_transfer_compliance_for_Android_apps_dev
+# GDPR
