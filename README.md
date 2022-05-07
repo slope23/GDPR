@@ -28,7 +28,7 @@ Like in the second script (**safeguard_analysis.py**), this script will determin
 
 ## Results
 
-The following are major findings from analyzing the selected apps for this study:
+The following are the key findings from analyzing the selected apps for this study:
 * Most international data transfers without adequacy decision and all compliant data transfer are to the United States. (See [*destination_countries.png*](destination_countries.png).)
 * Most data transfers to the United States did not declare safeguards. (See [*safeguard_composite.png*](safeguard_composite.png).)
 * Appropriate safeguards are a much more popular transparency element than explicit consent. (See [*compliance_analysis.png*](compliance_analysis.png).)
